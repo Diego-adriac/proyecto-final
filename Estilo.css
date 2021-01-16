@@ -1,0 +1,10 @@
+#body {
+    background-size: cover;
+    background-image: url(Imagenes/Fondo.jpg);
+}
+
+#articulo {
+    background-color: cornsilk;
+    margin-left: 150px;
+    margin-right: 150px;
+}
